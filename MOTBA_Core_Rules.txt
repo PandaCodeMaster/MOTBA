@@ -1,0 +1,222 @@
+MOTBA Core Rules
+-----------------------------------------------------
+Requirements:
+
+Players:
+Player Count 2+
+Suggested 2-4
+
+Space: 
+A table big enough to accomodate the number
+of players as though it was comfortable dinner seating.
+
+Time:
+1.5 hours
+
+Supplies:
+Deck of Numbered Cards
+Deck of character Cards
+Deck of Artifact Cards
+Stack of Arenas
+at least 12 MOTBA Action Dice.
+at least 1 MOTBA Offense Die.
+at least 1 MOTBA Defense Die.
+at least 1 MOTBA Bonus Die.
+
+Tokens for Tracking Damage
+Tokens for Tracking Shields
+Tokens for Tracking Cooldown
+Tokens for Tracking Special
+Tokens for Misc uses.
+
+A collection of distinguishable objects to be used as miniatures
+to represent the Characters in battle. These objects should fit within
+the space of a single tile of an Arena title. You should have at least 3 per
+player, but you may need a few more.
+
+A means to set a timer. A smart phone should do.
+
+-----------------------------------------------------
+Setup:
+
+MOTBA is played in "Seasons" which can consist of 1 or more "Battles"
+Setup is done per Season. There are a few Season variants.
+
+Season Setup:
+
+Standard Season
+1: Shuffle the Numbered cards into a pile, Character cards into a pile, Artifact cards into a pile, and Arenas into a pile.
+2: Draw 6 X ( Number of Players + 1 ) Character cards faced down. This becomes the Character Pool. Set aside the rest.
+3: Draw 8 X ( Number of Players + 1) Artifact cards faced down. This becomes the Artifact Pool. Set aside the rest.
+4: Draw 3 X ( Number of Players + 1) Arenas face down. This becomes the Arena pool. Set aside the rest.
+
+Infinite Season
+1: Shuffle the Numbered cards into a pile, Character cards into a pile, Artifact cards into a pile, and Arenas into a pile.
+2: The Character card pile becomes the Character Pool.
+3: The Artifiact card pile becomes the Artifact Pool.
+4: The Arena tile pile becomes the Arena Pool.
+
+Tight Season
+1: Shuffle the Numbered cards into a pile, Character cards into a pile, Artifact cards into a pile, and Arenas into a pile.
+2: Draw 5 X ( Number of Players + 1) + 1 Character cards faced down. This becomes the Character Pool. Set aside the rest.
+3: Draw 5 X ( Number of Players + 1) + 1 Artifact cards faced down. This becomes the Artifact Pool. Set aside the rest.
+4: Draw 3 X ( Number of Players + 1) Arenas face down. This becomes the Arena pool. Set aside the rest.
+
+Fan Season
+1: Shuffle the Numbered cards into a pile
+2: All players go through all Character Cards. If at least one player wants a Character, it's added to the Character pool.
+3: All players go through all Artifact Cards. If at least one player wants an Artifact it's added to the Artifact pool.
+4: All players go through all Arena Cards. If at least one player wants an Arena it's added to the Arena pool.
+
+Season By Comittee
+2: All players go through all Character Cards. If at least half of players want a Character, it's added to the Character pool.
+3: All players go through all Artifact Cards. If at least half of players want an Artifact it's added to the Artifact pool.
+4: All players go through all Arena Cards. If at least half of players want an Arena it's added to the Arena pool.
+
+Pregen Season
+Seasons of Characters and Artifacts can be created outside of games, and can be used,
+skipping the need to generate your Pools. In this variant, Character and Artifact Pools
+are taken directly from these lists.
+
+Customization Options:
+If a Character or Artifact is deemed to Powerful, Silly, Weak, or whatever,
+feel free to perma-ban it, and exclude it as an option for any method of s]
+generating a season.
+
+-----------------------------------------------------
+Battle:
+
+A Battle is a single unit of play in MOTBA. Could be thought of as a "Match".
+The goal of a Battle is to draft the best team you can, and be the last team standing.
+
+A battle is broken down into a number of Stages. They are as follows:
+1: Reserve Selection
+2: Arena Selection
+3: Team Creation
+4: The Reveal
+5: Placement
+6: Fight
+7: Results
+
+Each of these Stages will be described below.
+
+------------------------------------------------
+Reserve Selection
+
+In Reserve Selection, each player will select their collection of Characters
+and Artifacts from which they will build their team to bring into battle.
+There are 2 main forms of Reserve Selection: Prepared, and Draft. Each these forms
+have a few variants. These variants can apply to Character Selection, Artifact Selection,
+or both.
+
+Standard Prepared:
+1: A reserve of 5 cards are selected from the Pool by each player in separate.
+Each player has access to the entire Pool for the respective card type.
+2: Once all players have picked their Reserves, all Reserves are revealed.
+
+
+Unique Prepared: 
+1: A reserve of 5 cards are selected from a shared pool of the respective card type.
+Cards are selected in no particular order. A player can only reserve cards they put into
+their Reserve. If it isn't in the Reserve, it is available for selection.
+Cards are available in a first come - first serve basis.
+2: Once all players have picked their Reserves, all Reserves are revealed.
+
+Standard Draft:
+1: Each Player selects a random card from the Number deck. (Except for players who picked initial roles in previous stages this Battle)
+2: The Player with the highest card chooses "First Pick" or "Double Ban". 
+	The Player to their right gets the one that wasn't selected.
+	Stage Play Direction (SPD) is clockwise if the Player picked "First Pick", counter-clockwise if "Double Ban"
+3: Draft starts with "First Pick" and proceeds in SPD with each player picking one card to "Ban". 
+	Banned cards are removed from the Pool for the rest of this Battle.
+4: When it gets to the last "Double Ban Player" that player gets to ban a second and final card.
+5: "First Pick" Player becomes "Draft Leader"
+6: Play starts with the Draft Lead and continues in SPD, with each player taking a card from the pool,
+	and adding it to their reserve.
+7: After all players have picked, the "Draft Leader" position goes to the next Player in clockwise order.
+8: Repeat 6, and 7 until all players have picked 5 cards.
+
+Mini Draft:
+1: Each Player selects a random card from the Number deck. (Except for players who picked initial roles in previous stages this Battle)
+2: The Player with the highest card becomes "Draft Leader"
+1: Shuffle the Pool into a Pool Deck.
+2: Draw 6 cards in the case of Characters, and 8 in the case of Artifacts.
+	Put them in the center of the table. This becomes the Pool.
+3: The person to the right of the Draft Leader bans 1 card.
+4: Starting with the Draft Leader, and proceeding clockwise, each player picks a card.
+5: Once all players have picked a card. The next player in clockwise order becomes "Draft Leader"
+6: Repeat steps 2-5 until all players have selected 5 cards.
+
+Pack Draft:
+1: Randomly divide the pool as evenly as possible across all players facedown into "Packs"
+2: Each player picks up the pack in front of them.
+3: Each player discards a card facedown to a shared "Ban" Pile".
+4: Each player passes their pack clockwise.
+5: Each player picks 1 card facedown to their Reserve.
+6: Repeat steps 4-5 until all players have 5 cards, discarding any extras to a "surplus" pile.
+7: The Ban Pile is Revealed.
+8: All Reserves are Revealed.
+
+Chaos Mode:
+1: Each Player selects a random card from the Number deck. (Except for players who picked initial roles in previous stages this Battle)
+2: The Player with the highest card becomes "Double Ban".
+3: Each Player in clockwise order, starting with the one to the left of "Double Ban" bans 1 card from the Pool.
+4: Double Ban then bans a second, and final card.
+5: The remaining cards are reshuffled into the Pool Deck.
+6: The Pool Deck is distributed randomly and evenly across all players. This becomes their Reserves.
+8: All Reserves are Revealed.
+------------------------------------------------
+Arena Selection
+
+1: All players draw a random card from the number deck. (Except for players who picked initial roles in previous stages this Battle)
+2: The player with the highest card gets to select "Options Picker" or Arena Picker".
+	The player to their right becomes the role that wasn't picked.
+	Stage Play Direction (SPD) is clockwise if the Player picked "Options Picker", counter-clockwise if "Arena Picker"
+3: The Options picker selects a number of Arenas from the Arena Pool = # of players + 2
+4: In clockwise order, each player between the "Options Picker" and  the Arena Picker" discards one of the remaining Arenas.
+5: The Arena Picker chooses an Arena from the remaining options. That becomes the Battle Arena. 
+
+------------------------------------------------
+Team Creation
+
+Team Creation is the Stage in which players form the team which they will bring to battle.
+The goal is to bring the team and loadout you feel will bring you victory based on your options,
+your opponent's options, and the Battle Arena.
+
+While Reserves are Public Information, at this Stage, Teams are Hidden Information.
+
+Teams are made from 3 Character slots, and 3 Artifact slots.
+Place Characters in a row, face down, left to right, in the order you wish them to be revealed.
+Then place Artifacts in a second row, facedown, left to right, in the order you wish them to be revealed.
+
+Some Characters and Artifacts take up multiple slots. In the case you select these cards for your Team.
+you may put blank cards down to fill in "gaps". No real card can be right of a blank card, real cards
+must all be placed in earlier slots, before the blank cards.
+
+------------------------------------------------
+The Reveal
+
+1: All players draw a random card from the number deck. (Except for players who picked initial roles in previous stages this Battle)
+2: The player with the highest card chooses "First Player" or "Last Player". 
+	The player to their right becomes the role they didn't pick.
+	Play Direction is clockwise if the Player picked "First Pick", counter-clockwise if "Last Player"
+3: One at a time each player reveals their next Character in order until all characters are revealed.
+4: One at a time each player reveals their next Artifact, and chooses its target (if any) until all artifacts are revealed.
+
+------------------------------------------------
+Placement
+
+1: In order, players pick their starting zone.
+2: All players can freely choose the initial placement of their units, provided
+the placement is within their starting zone. Placement continues until all players
+are satisfied, or 1 minute passes.
+
+------------------------------------------------
+Battle
+
+------------------------------------------------
+Results
+
+1: Winner is last player with at least 1 unit left alive on the board at the end of a turn.
+2: In the case multiple players lost their last character at the same time, the player who had more characters alive at the start of the last round wins.
+3: In case of a tie in stage 2, the winner is the player with the later position in the Round.
